@@ -6,7 +6,7 @@ This project demonstrates the application of **Tailwind CSS** to create a visual
 
 Here’s a quick demo video of the project in action:
 
-![Project Demo Video](./utils/Landing page.mp4" type="video/mp4)
+![Project Demo Video](./utils/Landing.mp4" type="video/mp4)
 
 > **Note**: If the video preview does not appear, download it to view locally.
 
